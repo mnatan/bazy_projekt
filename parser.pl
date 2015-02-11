@@ -1,4 +1,7 @@
 #!/usr/bin/perl
+#
+# All credits to https://github.com/s-nez
+#
 use strict;
 use warnings;
 use feature 'say';
